@@ -11,5 +11,5 @@
 
 <img src="https://komarev.com/ghpvc/?username=gtrmalay&style=flat-square&color=blue" alt=""/>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWsxZXFkdDZ4dnI1eXNqaW14NHZlbGRxM2d6YmltNmxlaGlyaWliOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWsxZXFkdDZ4dnI1eXNqaW14NHZlbGRxM2d6YmltNmxlaGlyaWliOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="200" height="300"/>
 </div>
