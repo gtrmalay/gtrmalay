@@ -4,5 +4,8 @@
 
 
 <div id="badges">
+  <a href="https://t.me/gtr_malchik">
+    
+  </a>
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Tg Badge"/>
 </div>
